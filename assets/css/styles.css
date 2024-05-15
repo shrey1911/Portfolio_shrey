@@ -200,7 +200,7 @@ img {
 }
 .home__social-icon {
   width: max-content;
-  margin-bottom: var(--mb-2);
+  margin-bottom: var(--mb-3);
   font-size: 1.5rem;
   color: var(--second-color);
 }
@@ -218,6 +218,7 @@ img {
 }
 .home__blob-img {
   width: 360px;
+
 }
 
 /*BUTTONS*/
